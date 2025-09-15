@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "GeoNetwork5FE": {
+    "AngularTailwindPrimeNG": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -61,10 +61,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "GeoNetwork5FE:build:production"
+              "buildTarget": "AngularTailwindPrimeNG:build:production"
             },
             "development": {
-              "buildTarget": "GeoNetwork5FE:build:development"
+              "buildTarget": "AngularTailwindPrimeNG:build:development"
             }
           },
           "defaultConfiguration": "development"

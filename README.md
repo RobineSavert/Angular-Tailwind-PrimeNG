@@ -1,6 +1,7 @@
-# GeoNetwork5FE
+# AngularTailwindPrimeNG
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
+For all the frontenders struggling to set up the latest v20 of Angular together with PrimeNG and TailwindCSS, this is a boilerplate to get you started. All the PrimeNG components are working out of the box. They are, however, still located in the app component, so please structure your project nicely after checking out this boilerplate.
+
 
 ## Development server
 

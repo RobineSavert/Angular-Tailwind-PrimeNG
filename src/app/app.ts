@@ -91,5 +91,5 @@ export class App {
   delete() {
     this.messageService.add({ severity: 'warn', summary: 'Delete', detail: 'Data Deleted' });
   }
-  protected readonly title = signal('GeoNetwork5FE');
+  protected readonly title = signal('AngularTailwindPrimeNG');
 }
